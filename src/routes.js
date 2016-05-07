@@ -11,6 +11,7 @@ import {
     LoginSuccess,
     Survey,
     NotFound,
+	UserLogin,
   } from 'containers';
 
 export default (store) => {
@@ -37,7 +38,7 @@ export default (store) => {
   return (
     <Route path="/" component={App}>
       { /* Home (main) route */ }
-      <IndexRoute component={Home}/>
+      <IndexRoute component={UserLogin}/>
 
       { /* Routes requiring login */ }
       <Route onEnter={requireLogin}>

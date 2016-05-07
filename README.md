@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Redux Universal Hot Example
 
 [![build status](https://img.shields.io/travis/erikras/react-redux-universal-hot-example/master.svg?style=flat-square)](https://travis-ci.org/erikras/react-redux-universal-hot-example)
@@ -256,3 +257,6 @@ If you would like to submit a pull request, please make an effort to follow the 
 Thanks for checking this out.
 
 – Erik Rasmussen, [@erikras](https://twitter.com/erikras)
+=======
+# gradebook
+>>>>>>> e0bc099a11aaa07f4f7d961794b0a222059e02e8
